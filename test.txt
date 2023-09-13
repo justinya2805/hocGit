@@ -1,2 +1,0 @@
-git commit --allow-empty -m "Initial commit on orphan branch"
-chấp nhận push branch rỗng
